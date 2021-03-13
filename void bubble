@@ -1,0 +1,7 @@
+template <class Item>
+void bubble(Item ap[], int l, int r)
+{
+  for (int i - l; i < r; i++)
+    for(int j = r; j > i; j--)
+      compexch(a[j-l], a[j]);
+}
